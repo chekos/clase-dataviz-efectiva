@@ -1,0 +1,3 @@
+altair==4.1.0
+geopandas==0.10.2
+jupyterlab==3.2.4
